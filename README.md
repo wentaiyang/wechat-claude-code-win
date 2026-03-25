@@ -4,6 +4,9 @@
 
 A Windows-friendly WeChat ↔ Claude Code bridge. It lets you chat with your local Claude Code from WeChat, including text, images, approvals, and basic slash commands.
 
+This project was developed with reference to the original project:
+- https://github.com/Wechat-ggGitHub/wechat-claude-code
+
 ## Features
 
 - Chat with Claude Code from WeChat

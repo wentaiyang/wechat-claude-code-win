@@ -4,6 +4,9 @@
 
 这是一个偏 Windows 友好的 WeChat ↔ Claude Code 桥接项目。它可以让你通过微信与本地 Claude Code 对话，支持文字、图片、审批和基础斜杠命令。
 
+本项目参考以下原始项目开发：
+- https://github.com/Wechat-ggGitHub/wechat-claude-code
+
 ## 功能
 
 - 通过微信与 Claude Code 对话
